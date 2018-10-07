@@ -1,0 +1,10 @@
+package org.mycontrib.example.config;
+
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+//@Configuration
+//@EnableWebMvc
+//@ComponentScan({ "org.mycontrib.example.rest" })
+public class ResourceServerWebConfig implements WebMvcConfigurer {
+    //
+}
